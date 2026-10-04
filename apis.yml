@@ -62,6 +62,12 @@ apis:
     tags:
       - Analytics
       - Automation
+      - Inventory
+      - Supply Chain
+      - Warehouse Management
+    tags_raw:
+      - Analytics
+      - Automation
       - Inventory Management
       - Supply Chain
       - Warehouse Management
